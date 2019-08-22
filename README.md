@@ -1,2 +1,6 @@
 # hello-world
-repository pertama
+
+Ryder, Suka game terutama PES.
+Itu aja.
+
+Terima Kasih
